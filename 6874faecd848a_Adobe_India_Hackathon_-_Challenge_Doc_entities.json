@@ -1,0 +1,407 @@
+[
+  {
+    "text": "Connecting the Dots\u201d Challenge  \n \nRethink Reading",
+    "label": "WORK_OF_ART",
+    "page": 2
+  },
+  {
+    "text": "Rediscover Knowledge",
+    "label": "PERSON",
+    "page": 2
+  },
+  {
+    "text": "PDF",
+    "label": "ORG",
+    "page": 2
+  },
+  {
+    "text": "PDF",
+    "label": "ORG",
+    "page": 2
+  },
+  {
+    "text": "\u2022 Round 1",
+    "label": "PRODUCT",
+    "page": 2
+  },
+  {
+    "text": "Adobe",
+    "label": "ORG",
+    "page": 2
+  },
+  {
+    "text": "PDF Embed API",
+    "label": "ORG",
+    "page": 2
+  },
+  {
+    "text": "Round 1",
+    "label": "LAW",
+    "page": 2
+  },
+  {
+    "text": "ML",
+    "label": "ORG",
+    "page": 2
+  },
+  {
+    "text": "UI",
+    "label": "ORG",
+    "page": 2
+  },
+  {
+    "text": "PDF",
+    "label": "ORG",
+    "page": 2
+  },
+  {
+    "text": "PDF",
+    "label": "ORG",
+    "page": 3
+  },
+  {
+    "text": "Title",
+    "label": "LOC",
+    "page": 3
+  },
+  {
+    "text": "H1",
+    "label": "PRODUCT",
+    "page": 3
+  },
+  {
+    "text": "PDF",
+    "label": "ORG",
+    "page": 3
+  },
+  {
+    "text": "up to 50",
+    "label": "CARDINAL",
+    "page": 3
+  },
+  {
+    "text": "\u2022 Outputs",
+    "label": "ORG",
+    "page": 3
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL",
+    "page": 3
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL",
+    "page": 3
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL",
+    "page": 3
+  },
+  {
+    "text": "PDF",
+    "label": "ORG",
+    "page": 3
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL",
+    "page": 3
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL",
+    "page": 4
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL",
+    "page": 4
+  },
+  {
+    "text": "Dockerfile",
+    "label": "ORG",
+    "page": 4
+  },
+  {
+    "text": "amd64",
+    "label": "PERSON",
+    "page": 4
+  },
+  {
+    "text": "CPU",
+    "label": "ORG",
+    "page": 4
+  },
+  {
+    "text": "amd64",
+    "label": "PERSON",
+    "page": 4
+  },
+  {
+    "text": "GPU",
+    "label": "ORG",
+    "page": 4
+  },
+  {
+    "text": "200",
+    "label": "CARDINAL",
+    "page": 4
+  },
+  {
+    "text": "amd64",
+    "label": "PERSON",
+    "page": 4
+  },
+  {
+    "text": "--rm -v $",
+    "label": "MONEY",
+    "page": 4
+  },
+  {
+    "text": "10 seconds",
+    "label": "TIME",
+    "page": 4
+  },
+  {
+    "text": "50",
+    "label": "CARDINAL",
+    "page": 4
+  },
+  {
+    "text": "PDF",
+    "label": "ORG",
+    "page": 4
+  },
+  {
+    "text": "CPU",
+    "label": "ORG",
+    "page": 5
+  },
+  {
+    "text": "amd64",
+    "label": "ORG",
+    "page": 5
+  },
+  {
+    "text": "8",
+    "label": "CARDINAL",
+    "page": 5
+  },
+  {
+    "text": "16",
+    "label": "CARDINAL",
+    "page": 5
+  },
+  {
+    "text": "Scoring Criteria  \nCriteria  \nMax \nPoints  \nHeading Detection Accuracy",
+    "label": "ORG",
+    "page": 5
+  },
+  {
+    "text": "Japanese",
+    "label": "NORP",
+    "page": 5
+  },
+  {
+    "text": "10",
+    "label": "CARDINAL",
+    "page": 5
+  },
+  {
+    "text": "1",
+    "label": "CARDINAL",
+    "page": 5
+  },
+  {
+    "text": "Git Project",
+    "label": "PERSON",
+    "page": 5
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL",
+    "page": 5
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL",
+    "page": 5
+  },
+  {
+    "text": "Round",
+    "label": "PRODUCT",
+    "page": 5
+  },
+  {
+    "text": "Git Repo",
+    "label": "PERSON",
+    "page": 6
+  },
+  {
+    "text": "API",
+    "label": "ORG",
+    "page": 6
+  },
+  {
+    "text": "Sample Input",
+    "label": "PERSON",
+    "page": 6
+  },
+  {
+    "text": "Persona-Driven Document Intelligence  \nTheme",
+    "label": "ORG",
+    "page": 7
+  },
+  {
+    "text": "Connect What Matters",
+    "label": "WORK_OF_ART",
+    "page": 7
+  },
+  {
+    "text": "the User Who Matters",
+    "label": "ORG",
+    "page": 7
+  },
+  {
+    "text": "3-10",
+    "label": "CARDINAL",
+    "page": 7
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL",
+    "page": 7
+  },
+  {
+    "text": "\u2022 Documents",
+    "label": "ORG",
+    "page": 7
+  },
+  {
+    "text": "Salesperson",
+    "label": "PERSON",
+    "page": 7
+  },
+  {
+    "text": "Entrepreneur",
+    "label": "PERSON",
+    "page": 7
+  },
+  {
+    "text": "Organic Chemistry",
+    "label": "ORG",
+    "page": 7
+  },
+  {
+    "text": "Summarize",
+    "label": "PERSON",
+    "page": 7
+  },
+  {
+    "text": "year",
+    "label": "DATE",
+    "page": 7
+  },
+  {
+    "text": "4",
+    "label": "CARDINAL",
+    "page": 7
+  },
+  {
+    "text": "Graph Neural Networks",
+    "label": "ORG",
+    "page": 7
+  },
+  {
+    "text": "Discovery",
+    "label": "PRODUCT",
+    "page": 7
+  },
+  {
+    "text": "PhD Researcher",
+    "label": "WORK_OF_ART",
+    "page": 7
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL",
+    "page": 8
+  },
+  {
+    "text": "annual",
+    "label": "DATE",
+    "page": 8
+  },
+  {
+    "text": "2022-2024",
+    "label": "DATE",
+    "page": 8
+  },
+  {
+    "text": "5",
+    "label": "CARDINAL",
+    "page": 8
+  },
+  {
+    "text": "Refer",
+    "label": "PERSON",
+    "page": 8
+  },
+  {
+    "text": "Metadata",
+    "label": "PERSON",
+    "page": 8
+  },
+  {
+    "text": "2",
+    "label": "CARDINAL",
+    "page": 8
+  },
+  {
+    "text": "CPU",
+    "label": "ORG",
+    "page": 8
+  },
+  {
+    "text": "\u2022 Model",
+    "label": "PRODUCT",
+    "page": 8
+  },
+  {
+    "text": "60 seconds",
+    "label": "TIME",
+    "page": 8
+  },
+  {
+    "text": "3",
+    "label": "CARDINAL",
+    "page": 8
+  },
+  {
+    "text": "300-500",
+    "label": "CARDINAL",
+    "page": 9
+  },
+  {
+    "text": "\u2022 Dockerfile",
+    "label": "ORG",
+    "page": 9
+  },
+  {
+    "text": "60",
+    "label": "CARDINAL",
+    "page": 9
+  },
+  {
+    "text": "persona + job",
+    "label": "PERSON",
+    "page": 9
+  },
+  {
+    "text": "https://github.com/jhaaj08/Adobe-India-",
+    "label": "PERSON",
+    "page": 10
+  }
+]
